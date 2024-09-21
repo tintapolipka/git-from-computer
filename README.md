@@ -2,3 +2,5 @@
 Biza, meglásd!
 ## Commitoljuk jól!
 Úgy-e?
+## Local development
+lorem ipsum set dolores
